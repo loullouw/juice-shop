@@ -161,6 +161,7 @@ Pour ce challenge, il y a deux solutions "d'attaques" possible, j'ai ici choisi 
 
 
     ![](img/coupon/decode.png)
+
     On peut donc voir que le code est `FEB21-20`.
 
     On peut en déduire que si l'on veut un code de **80%** celui-ci sera `FEB21-80`. Il ne reste plus qu'à l'encoder en Base 85
@@ -171,6 +172,7 @@ Pour ce challenge, il y a deux solutions "d'attaques" possible, j'ai ici choisi 
 
     
     ![](img/coupon/encode.png)
+    
     Ce qui donne le code `mNYT0f!Cvs`
 
 7. Il faut entrer le code généré dans le panier et procéder au paiement pour résoudre le challenge
