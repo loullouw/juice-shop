@@ -5,19 +5,11 @@ Fait par Pauline PRIEUR | 3SI1
 ## Table des matières
 
 
-  - [Scope](#scope)
   - [Login Support Team](#login-support-team)
-    - [Description](#description)
-    - [Risques](#risques)
-    - [Étapes à reproduire](#étapes-à-reproduire)
+  - [Forged Coupon](#forged-coupon)
   - [Login Bjoern](#login-bjoern)
-    - [Description](#description-1)
-    - [Risques](#risques-1)
-    - [Étapes à reproduire](#étapes-à-reproduire-1)
   - [Steganography](#steganography)
-    - [Issue Description](#issue-description)
-    - [Risques](#risques-2)
-    - [Étapes à reproduire](#étapes-à-reproduire-2)
+
 
 
 ## Scope
@@ -30,8 +22,6 @@ Dans ce write-up, le scope analysé est le suivant :
 ### Description
 
 > *Log in with the support team's original user credentials without applying SQL Injection or any other bypass.*
-
-
 
 
 
